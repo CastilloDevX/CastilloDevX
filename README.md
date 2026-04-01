@@ -27,7 +27,7 @@ Me enfoco en crear soluciones que no solo funcionen, sino que también sean esca
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,nodejs,react,html,css,mysql,mongodb,git,github,docker,vscode" />
@@ -35,7 +35,7 @@ Me enfoco en crear soluciones que no solo funcionen, sino que también sean esca
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CastilloDevX&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
@@ -75,7 +75,7 @@ Proyecto desarrollado en **Python**, enfocado en la construcción de una soluci�
 > Este panel puede generarse automáticamente con GitHub Actions para mostrar actividad, lenguajes, contribuciones y métricas avanzadas.
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%" />
 </p>
 
 ---
